@@ -5,12 +5,11 @@
 //  Created by Mauro Sys One on 3/28/22.
 //
 
-import SwiftUI
+import  SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+       Text("Jose de Oliveira Adao")
     }
 }
 
